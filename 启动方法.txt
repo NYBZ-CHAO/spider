@@ -1,0 +1,6 @@
+
+
+cd /usr/local/python3.6/py_work/kt_spider/kt_spider/spiders
+
+
+python3 main.py
