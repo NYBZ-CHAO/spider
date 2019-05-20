@@ -1,5 +1,4 @@
 # spider
-给老子爬
 pip install Scrapy
 
 #下载对应版本  
@@ -8,19 +7,13 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/
 
 python -m pip install pypiwin32
 
-
-
 scrapy startproject projectName (创建scrapy项目)
-
 
 格式：scrapy crawl+爬虫名  –nolog即不显示日志
 example:scrapy crawl xiaohau --nolog 
 
 //scrapy的暂停与重启
 scrapy crawl jingdong -s JOBDIR=zant/001
-
-
-
 
 linux python3.6.5 安装
 
